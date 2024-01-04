@@ -2,7 +2,7 @@
   <div class="Projects">
     <div class="text-center pt-40vh" id="first-Page">
       <div class="container">
-        <h1 class="text-white">*Projects*</h1>
+        <h1 class="text-white">Projects</h1>
         <p>
           Most of projects are in field of
           <strong class="text-white">web application development</strong>
